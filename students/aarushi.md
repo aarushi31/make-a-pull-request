@@ -2,4 +2,4 @@
 
 ## 2nd Year, CSE ,KIIT
 
-## C++, JavaScript
+## C/C++, Javascript
